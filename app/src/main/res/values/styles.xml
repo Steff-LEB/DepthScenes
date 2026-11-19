@@ -1,0 +1,7 @@
+<resources>
+  <!-- Pixel's own DayNight theme (Material You dialogs, sliders and ripples) without an action bar. -->
+  <style name="Studio" parent="@android:style/Theme.DeviceDefault.DayNight">
+    <item name="android:windowActionBar">false</item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+</resources>
